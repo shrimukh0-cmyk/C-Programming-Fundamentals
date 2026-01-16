@@ -108,11 +108,17 @@ It is created to strengthen core programming concepts and build a strong foundat
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/c-programming-fundamentals.git
+   
 2.Navigate to the project folder:
+
         - cd c-programming-fundamentals
+        
 3.Compile a C program: 
+
        - gcc filename.c -o output
+       
 4.Run the program: 
+
        - Linux   : ./a.exe 
        - MacOS   : ./a.out
        - Windows : ./a.exe
@@ -124,22 +130,23 @@ It is created to strengthen core programming concepts and build a strong foundat
 
 📄 Notes
 
-This repository is intended for learning and practice purposes
+  -This repository is intended for learning and practice purposes.
 
-Code quality and structure improve over time
+  -Code quality and structure improve over time.
 
-Suggestions and improvements are welcome
+  -Suggestions and improvements are welcome.
 
 👤 Author
 
-Suryansh Tiwari
-B.Tech CSE (AI & ML)
+   Suryansh Tiwari
+   
+  B.Tech CSE (AI & ML)
 
 ⭐ Acknowledgements
 
-College coursework and lab practice
+    College coursework and lab practice
 
-Online documentation and learning resources
+    Online documentation and learning resources
 
 
 
